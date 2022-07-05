@@ -5,9 +5,9 @@
 // RECODE BY RIEL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6289516947204'] 
-global.mods = ['6289516947204'] 
-global.prems = ['6289516947204'] 
+global.owner = ['6289516947204','6288213988636'] 
+global.mods = [''] 
+global.prems = [''] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'IyanOfc ✰'
