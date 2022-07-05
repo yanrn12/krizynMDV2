@@ -43,7 +43,7 @@ const defaultMenu = {
   header: '╭─㉿ 〔 %category 〕 ㉿─\n┃',
   body: '┃⫹⫺ %cmd %islimit %isPremium',
   footer: '┃\n╰────────㉿\n', 
-  footerText: 'Powered by ᯤ ʀɪᴇʟɢᴀɴs ᴏғᴄ',
+  footerText: 'Powered by ᯤ IYAN ᴏғᴄ',
   after: `
 ╭──〔  THANKS TO  〕─⬣
 ⫹⫺ Allah SWT
@@ -56,7 +56,7 @@ const defaultMenu = {
 ⫹⫺ Hyzer
 ⫹⫺ KrizynOfc
 ⫹⫺ RielgansOfc
-⫹⫺ ArullOfc
+⫹⫺ IYANOfc
 ╰─────────────⬣
 `,
 }
